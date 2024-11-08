@@ -15,5 +15,4 @@ def main(a,b):
     print(f"the substraction of {a} and {b} is: {res_sub}")
 
 
-
 main(2,4)
